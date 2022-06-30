@@ -66,8 +66,6 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://instagram.com/jeongtaehyeon_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeongtaehyeon_01" height="30" width="40" /></a>
-</p>
-<p align="right">
 <a href="https://discord.gg/문경민#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="문경민#9884" height="30" width="40" /></a>
 </p>
 
