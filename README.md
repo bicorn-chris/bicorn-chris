@@ -60,12 +60,11 @@
 <br>
 <br>
 
-<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" />
 
-
+<br>
+<br>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
@@ -73,7 +72,3 @@
 <a href="https://discord.gg/문경민#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="문경민#9884" height="30" width="40" /></a>
 <a href="https://fb.com/chris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chris" height="30" width="40" /></a>
 </p>
-
-
-
-
