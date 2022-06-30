@@ -36,9 +36,6 @@
 <h1 align="center">안녕하세요 👋, 저는 CHRIS입니다</h1>
 <h3 align="center">겸손하면 어든다</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=bicorn-chris&label=Profile%20views&color=0e75b6&style=flat" alt="bicorn-chris" /> </p>
-
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bicorn-chris" alt="바이콘 -크리스" /></a> </p>
 
 - 🔭 현재 **1**에서 작업 중입니다.
 
@@ -66,3 +63,12 @@
 <a href="https://instagram.com/jeongtaehyun_01" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="정태현_01 " 높이 = "30"너비="40" /></a>
 <a href="https://discord.gg/문경민#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/discord.svg" alt="문경민#9884" height="30" width="40" /></a>
 </p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bicorn-chris&" alt= "바이콘 크리스" /></p>
