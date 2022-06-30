@@ -31,10 +31,6 @@
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<br>
-<br>
-
-
 <h1 align="center">안녕하세요 👋, 저는 CHRIS입니다</h1>
 <h3 align="center">겸손하면 이익을 얻는다</h3>
 
@@ -64,9 +60,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스"/>
 <img src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" />
-
-<br>
-<br>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
