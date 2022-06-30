@@ -31,6 +31,8 @@
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
+<br>
+<br>
 
 
 <h1 align="center">안녕하세요 👋, 저는 CHRIS입니다</h1>
