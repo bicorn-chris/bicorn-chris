@@ -34,7 +34,7 @@
 
 
 <h1 align="center">안녕하세요 👋, 저는 CHRIS입니다</h1>
-<h3 align="center">겸손하면 어든다</h3>
+<h3 align="center">겸손하면 이익을 얻는다</h3>
 
 
 - 🔭 현재 **1**에서 작업 중입니다.
@@ -68,6 +68,7 @@
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://instagram.com/jeongtaehyeon_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeongtaehyeon_01" height="30" width="40" /></a>
+<a href="https://discord.gg/문경민#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="문경민#9884" height="30" width="40" /></a>
 <a href="https://discord.gg/문경민#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="문경민#9884" height="30" width="40" /></a>
 </p>
 
