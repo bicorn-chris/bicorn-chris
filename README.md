@@ -58,6 +58,11 @@
 - ⚡ 재미있는 사실 **1**
 
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jeongtaehyeon_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeongtaehyeon_01" height="30" width="40" /></a>
+</p>
