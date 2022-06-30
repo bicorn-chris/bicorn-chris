@@ -71,3 +71,6 @@
 <a href="https://discord.gg/문경민#9884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="문경민#9884" height="30" width="40" /></a>
 </p>
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bicorn-chris&" alt="bicorn-chris" /></p>
+
