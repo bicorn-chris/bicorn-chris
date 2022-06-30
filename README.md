@@ -61,6 +61,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bicorn-chris&" alt= "바이콘 크리스" /></p>
