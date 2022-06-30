@@ -57,10 +57,12 @@
 
 - ⚡ 재미있는 사실 **1**
 
+<br>
+<br>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bicorn-chris&show_icons=true&locale=en&layout=compact" alt="bicorn- 크리스"/>
-<img src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bicorn-chris&show_icons=true&locale=en" alt ="bicorn-chris" />
 </p>
 
 
