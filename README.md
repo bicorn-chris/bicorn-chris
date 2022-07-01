@@ -37,15 +37,15 @@
 
 - 🔭 현재 Bicorn 프로젝트 작업 중입니다.
 
-- 🌱 현재 **DjangoRest + ReactNative **을 배우고 있습니다.
+- 🌱 현재 DjangoRest + ReactNative 관련 Document를 뒤지고 있습니다.
 
-- 🤝 ** "KAKAO MAP" or "NAVER MAP" API에 대한 도움을 찾고 있습니다.**
+- 🤝 "KAKAO MAP" or "NAVER MAP" API에 대한 도움을 찾고 있습니다.
 
-- 💬 ** 야호 **
+- 💬 야호
 
-- 📫 연락 방법 ** +82-10-8750-6909 **
+- 📫 연락 방법 +82-10-8750-6909
 
-- ⚡ 재미있는 사실 **1**
+- ⚡ 재미있는 사실 : 솔로입니다 :(
 
 <br>
 <br>
